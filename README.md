@@ -14,6 +14,6 @@ Este conjunto de dados é de domínio público e contém informações de nível
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
+* https://th14g0cust0d10.github.io/Customer_Churn/
 
 ---
