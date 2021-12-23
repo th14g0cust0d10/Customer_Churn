@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Customer Churn em Operadoras de Telecom
+*Portfólio Thiago Gonçalves Custódio*
 
-You can use the [editor on GitHub](https://github.com/th14g0cust0d10/Customer_Churn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](churn.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## 1. Descrição geral do problema
 
-### Markdown
+Com o rápido desenvolvimento da indústria de telecomunicações, os provedores de serviços estão mais inclinados à expansão da base de assinantes. Para atender à necessidade de sobreviver no ambiente competitivo, a **retenção dos clientes existentes** tornou-se um grande desafio. **Afirma-se que o custo de adquirir um novo cliente é muito maior do que o de manter o existente**. Portanto, é imperativo que as indústrias de telecomunicações usem *análises avançadas* para entender o comportamento do consumidor e, por sua vez, prever a associação dos clientes quanto à sua saída ou não da empresa.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Este conjunto de dados é de domínio público e contém informações de nível de cliente para uma empresa de telecomunicações. Vários atributos relacionados aos serviços utilizados são registrados para cada cliente.
 
-```markdown
-Syntax highlighted code block
+**Objetivo:** Neste projeto iremos utilizar a linguagem **Python**, para criar um modelo de aprendizagem de máquina que possa prever se um cliente pode ou não cancelar seu plano, e qual a probabilidade de isso ocorrer.
 
-# Header 1
-## Header 2
-### Header 3
+Para visualizar a análise completa feita neste projeto, acesse este link:
 
-- Bulleted
-- List
+* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/th14g0cust0d10/Customer_Churn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
